@@ -1,2 +1,2 @@
 # Rahul-kumar
-This is my first git and github class
+This is my first git and github class.
